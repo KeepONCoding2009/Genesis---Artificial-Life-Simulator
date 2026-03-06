@@ -66,7 +66,7 @@ git clone https://github.com/KeepONCoding2009/Genesis---Artificial-Life-Simulato
 ### 2️⃣ Go to the project folder
 
 ```
-cd neurogenesis
+cd Genesis---Artificial-Life-Simulator
 ```
 
 ### 3️⃣ Run the simulator
@@ -119,7 +119,8 @@ This project is inspired by concepts from:
 
 Developed by **Ahnaf Islam Swapnil(Bismuth)**
 
-Portfolio :- https://www.swpnil.me/
+Portfolio :- https://swpnil.me/
+Backup Domain :- https://ahnafislamswapnil.netlify.app/
 
 ---
 
