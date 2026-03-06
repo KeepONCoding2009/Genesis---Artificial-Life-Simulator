@@ -60,7 +60,7 @@ This project explores the fascinating concept of **Artificial Life and Emergent 
 ### 1️⃣ Clone the repository
 
 ```
-git clone https://github.com/keeponcoding2009/neurogenesis.git
+git clone https://github.com/KeepONCoding2009/neurogenesis.git
 ```
 
 ### 2️⃣ Go to the project folder
